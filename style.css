@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&family=Russo+One&display=swap');
+
+body
+{
+	text-align: center;
+	background: url('https://png.pngtree.com/thumb_back/fh260/background/20210113/pngtree-beautiful-fashion-yellow-green-gradient-abstract-geometric-background-image_533247.jpg');
+    background-size: cover;
+}
+span
+{
+	font-size: 14px;
+	color: rgb(35, 70, 40);
+	font-family: nunito sans;
+}
+canvas
+{
+	background: linear-gradient(#e2ffbe, #b3e279) ;
+	border-radius: 20px;
+}
+
+#h1 {
+	font-family: russo one;
+	font-size: 29px;
+}
+
+#btn1 {
+	font-family: nunito sans;
+	font-size: 16px;
+	background-color: rgb(66, 146, 46);
+	border-color: #e2ffbe;
+}
